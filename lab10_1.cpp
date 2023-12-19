@@ -18,9 +18,9 @@ int main(){
 		}else if(grade == 'C'){ 
 			count[2]++;
 		}else if(grade == 'D'){ 
-			count[3]++;/
+			count[3]++;
 		}else if(grade == 'F'){ 
-			count[4]++
+			count[4]++;
 		}else{ // grade is wrong input
 			cout <<"Wrong input. Please input again.\n";
 			i--;
